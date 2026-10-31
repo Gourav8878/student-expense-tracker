@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "Smart student finance app to track daily expenses, manage monthly budgets, and analyze spending habits offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
